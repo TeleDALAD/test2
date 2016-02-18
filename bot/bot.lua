@@ -222,6 +222,7 @@ function create_config( )
       "plugins",
       "channels",
       "set",
+      "banhammer",
       "stats",
       "time",
       "version",
